@@ -1,1 +1,2 @@
 This is a new file but not abc.txt.
+Adding some text.
